@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W40cKWB6atE32e4ck4I4/cha8UMf+QxlbMOMiiJHJ8I8eEo97mVoSXS9fJBRE0cdW6OBS1H85Xl15aZfTloqAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\RiderProjects\\ParseDownload\\ParseDownload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\exceldatareader.dataset\\3.7.0\\exceldatareader.dataset.3.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
